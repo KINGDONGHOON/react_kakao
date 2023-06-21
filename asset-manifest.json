@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react_kakao/static/css/main.0f052306.css",
+    "main.js": "/react_kakao/static/js/main.7e3adbf0.js",
+    "index.html": "/react_kakao/index.html",
+    "main.0f052306.css.map": "/react_kakao/static/css/main.0f052306.css.map",
+    "main.7e3adbf0.js.map": "/react_kakao/static/js/main.7e3adbf0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0f052306.css",
+    "static/js/main.7e3adbf0.js"
+  ]
+}
